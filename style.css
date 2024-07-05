@@ -1,0 +1,48 @@
+{
+    margin: 0;
+    pad{ding: 0;
+    }
+    .cabecalho {
+        background-color: ; src="" alt=" ">: #700703;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    .cabecalho-imagem{
+    width: 20%; 
+    }
+    
+    .cabecalho-lista-item{
+    display: inline-bloch;
+    margin: 0 16px;
+    font-size: 24px;
+    }
+    
+    .tomate-imagem{
+        width: 25%;
+    }
+
+    .tomate{
+        background-image: linear-gradient(#7a0707,#810e0e);
+        color: rgb(138, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+.tomate-div-conteudo{
+    width: 35%;
+}
+.tomate-titulo{
+    padding: 24px 0;
+}
+ .rodape{
+    background-color: #7a0707;
+    text-align: center;
+ }
+ .rodape-imagem{
+    height:60px ;
+    padding: 18px 0;
+ }
